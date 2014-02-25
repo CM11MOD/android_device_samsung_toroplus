@@ -91,4 +91,5 @@
     <!-- Set to true if the RSSI should always display CDMA signal strength -->
     <bool name="config_alwaysUseCdmaRssi">true</bool>
 
+    <bool name="config_enableAdbByDefault">true</bool>
 </resources>
